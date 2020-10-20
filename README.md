@@ -20,6 +20,7 @@ Data analisys example
 * registered - количество прокатов зарегистрированными пользователями
 * count - общее количество количество прокатов
 
+# English
 
 * datetime - hourly date + timestamp  
 * season -  1 = spring, 2 = summer, 3 = fall, 4 = winter 
